@@ -1,0 +1,16 @@
+pytz
+flask
+tinydb
+python-binance
+numpy
+pandas
+matplotlib
+tqdm
+statsmodels
+scipy
+rich
+scikit-learn
+py-spy
+pymysql
+numba
+seaborn
