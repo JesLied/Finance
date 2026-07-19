@@ -15,3 +15,4 @@ pymysql
 numba
 seaborn
 hmmlearn
+scikit-learn
