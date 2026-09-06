@@ -16,3 +16,4 @@ numba
 seaborn
 hmmlearn
 scikit-learn
+polars
